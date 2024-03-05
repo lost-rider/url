@@ -1,6 +1,6 @@
 This repository contains the codebase to provide a short url path for the given url using Node.js, Express, and MongoDB.
 
-Working:
+*Working:
 
 
 >The input from the user is taken in the form of url link. The application is also open to taking some string as a suggestion to be the part of URL.
@@ -9,12 +9,12 @@ Working:
 >The short url is redirected to original url and added to the database using post request.
 
 
-How to install:
+*How to install:
 
 You can install the codebase directly into vs code or download it in the form of a zip file.
 
 
-How to use:
+*How to use:
 
 After installing the codebase on your system run the following codes in your terminal:
 
