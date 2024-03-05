@@ -17,9 +17,9 @@ You can install the codebase directly into vs code or download it in the form of
 How to use:
 
 After installing the codebase on your system run the following codes in your terminal:
-.npm install  
-.npm install express
-.npm start
+*npm install  
+*npm install express
+*npm start
 
 
 >Go to the address http://localhost:5000/ in any of your browsers and you  will see the web application here. 
